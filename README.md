@@ -7,4 +7,4 @@ Creating readmes are an essential task of creating a project, it allows you to g
 Please navigate to the repository and clone it to your local machine. 
 
 ## Usage
-To run this application you will need to install Node.js onto your local machine along with the inquirer NPM. Once those are installed, please navigate to the terminal inside the repository and run "node index.js" to initiate startup. To see a video representation, please visit https://drive.google.com/file/d/1UKoTVeUa6lBuY5Z0uOBGj0wEYSJXWiAv/view
+To run this application you will need to install Node.js onto your local machine along with the inquirer NPM. Once those are installed, please navigate to the terminal inside the repository and run "node index.js" to initiate startup. To see a video representation, please visit https://drive.google.com/file/d/1joZWgGTUPNk0R4DM9-XOY2nhtqxeADF5/view
